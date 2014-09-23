@@ -1,0 +1,3 @@
+Ten plik powstał na branchu master.
+Jest tylko na tym branchu i w sumie tyle.
+Brak zmian i poprawek. 
